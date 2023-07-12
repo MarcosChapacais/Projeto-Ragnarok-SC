@@ -1,0 +1,54 @@
+body{ 
+max-width: 1280px;
+    margin: 0 auto;
+}
+
+.informacoes{
+    line-height: 2;
+}
+
+table, td, th{
+    border: 1px solid black;
+}
+
+.titulo{
+    color: darkolivegreen;
+}
+
+.pic{
+    width: 2.5%;
+    margin: 0.5%;
+}
+
+.second{
+    color: black;
+}
+
+.gif{
+    float: right; 
+    margin-right: 70%;
+    margin-top: 2%;
+    width: 180px;
+}
+
+.titulo2{
+    margin: 1%;
+    color: orangered;
+}
+
+.titulo3{
+    margin: 5%;
+    color: blueviolet;
+}
+.jpg{
+    margin: 4%;
+    width: 200px;
+    margin-top: -4%;
+}
+
+.gif2{
+    float: right; 
+    margin-right: 60%;
+    margin-top: 5.5%;
+    width: 180px;
+}

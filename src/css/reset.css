@@ -1,0 +1,11 @@
+* { margin: 0%;
+    padding-block: 0%;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none; 
+}
+.informacoes{ font-style: initial; color: blue;}
+body {background-color: antiquewhite}
+
+
